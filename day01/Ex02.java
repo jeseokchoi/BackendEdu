@@ -3,7 +3,7 @@ package day01;
 public interface Ex02 {
 	public static void main(String[] args) {
 		// 자료형 변환
-		
+		// 수정한 과정 어떻게 보나여???????
 		double pi =  3.14F;
 		int num = (int)pi;
 		// Type mismatch: cannot convert from double to int (형변환이 안되서 문제가 될 수도 있다는 경고)
