@@ -59,7 +59,7 @@ public class Day01 {
 		System.out.println(str2 == str3);
 		System.out.println(str2 == str4);	// 참조형 변수로 같은 값을 가르키고있다
 		
-		sc.close();
+		
 		
 	}
 
