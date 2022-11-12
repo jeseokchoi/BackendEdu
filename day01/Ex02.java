@@ -4,7 +4,7 @@ public interface Ex02 {
 	public static void main(String[] args) {
 		// 자료형 변환
 		
-		double pi =  3.14;
+		double pi =  3.14F;
 		int num = (int)pi;
 		// Type mismatch: cannot convert from double to int (형변환이 안되서 문제가 될 수도 있다는 경고)
 		// 대입 연산 시, 좌변과 우변의 자료형은 같아야 한다
