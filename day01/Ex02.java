@@ -13,7 +13,7 @@ public interface Ex02 {
 		int num2 = 1234;
 		double db = num2;
 		// num2는 정수이지만, 변수에 옮겨담으면서 암묵정으로 형변환이 발생한다
-		// 암묵적 형변환, promotion
+		// 암묵적 형변환, promotionㅇㄹㅇㄹㅇㄹㅇㄹ
 		
 		System.out.println("pi : " + pi);
 		System.out.println("num : " + num);
