@@ -15,7 +15,7 @@ public class Quiz120833 {
 		int[] arr = Arrays.copyOfRange(numbers, 2, 5);
 		
 		// 복사한 배열 출력
-		System.out.println(Arrays.toString(arr1));	// [3, 8, 9] 출력
+		System.out.println(Arrays.toString(arr));	// [3, 8, 9] 출력
 		
 		
 	}
