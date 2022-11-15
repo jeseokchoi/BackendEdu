@@ -12,7 +12,7 @@ public class Quiz120833 {
 		// 결과 3,8,9
 	
 		// 배열복사 함수 Arrays.copyOfRange()를 이용하여 배열 복사하기
-		int[] arr1 = Arrays.copyOfRange(numbers, 2, 5);
+		int[] arr = Arrays.copyOfRange(numbers, 2, 5);
 		
 		// 복사한 배열 출력
 		System.out.println(Arrays.toString(arr1));	// [3, 8, 9] 출력
